@@ -14,3 +14,7 @@ Meu nome Sara Crisina, tenho 15 anos
 Você pode entrar em contato comigo 📫
 
 - email: sara.costa.rosa@escola.pr.gov.br
+
+
+![](![IMG_6740](https://github.com/user-attachments/assets/a0c6b10e-8a2b-4c4c-8794-494dff8e49ac)
+) -amor da minha vida
