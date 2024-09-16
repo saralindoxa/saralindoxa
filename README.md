@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**saralindoxa/saralindoxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome Sara Crisina, tenho 15 anos
 
-Here are some ideas to get you started:
+- Estou estudando no CEP
+- Cursando o alura obrigadamente
+- Gosto de dança; musica; videogame
+- Amo do meu namorado
+- Moro no fim do mundo(vulgo Itaperuçu)
+- Tenho curso intermediário de inglês
+- Sou comunicativa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Você pode entrar em contato comigo 📫
+
+- email: sara.costa.rosa@escola.pr.gov.br
